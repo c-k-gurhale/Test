@@ -23,11 +23,11 @@
     <description>AEMMaven13</description>
 
 	<scm>
-	<connection>scm:git:https://github.com/c-k-gurhale/Test.git</connection>
-	<url>https://github.com/c-k-gurhale/Test</url>
-	<developerConnection>scm:git:https://github.com/c-k-gurhale/Test.git</developerConnection>
-	  <tag>1.1.1</tag>
-  </scm>
+	   <connection>scm:git@github.com:c-k-gurhale/Test.git</connection>
+	   <url>git@github.com:c-k-gurhale/Test</url>
+	   <developerConnection>scm:git@github.com:c-k-gurhale/Test.git</developerConnection>   
+	</scm>
+
 
     <modules>
         <module>core</module>
