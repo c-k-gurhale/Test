@@ -19,14 +19,15 @@
     <groupId>AEMMaven13</groupId>
     <artifactId>AEMMaven13</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <description>AEMMaven13</description>
 
 	<scm>
 	<connection>scm:git:https://github.com/c-k-gurhale/Test.git</connection>
 	<url>https://github.com/c-k-gurhale/Test</url>
 	<developerConnection>scm:git:https://github.com/c-k-gurhale/Test.git</developerConnection>
-	</scm>
+	  <tag>1.1.1</tag>
+  </scm>
 
     <modules>
         <module>core</module>
