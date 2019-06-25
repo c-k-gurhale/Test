@@ -22,6 +22,12 @@
     <version>2.0-SNAPSHOT</version>
     <description>AEMMaven13</description>
 
+    <scm>  
+        <connection>scm:git:https://github.com/c-k-gurhale/Test.git</connection>  
+        <developerConnection>scm:git:https://github.com/c-k-gurhale/Test.git</developerConnection>  
+   </scm>
+
+
     <modules>
         <module>core</module>
         <module>ui.apps</module>
